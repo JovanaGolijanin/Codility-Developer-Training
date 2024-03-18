@@ -1,2 +1,2 @@
 # Codility-Developer-Training
-Solutions for Codility Developer Training challenges, compiled as part of preparation for a Microsoft interview
+Solutions for Codility Developer Training tasks, compiled as part of preparation for a Microsoft interview
